@@ -6,7 +6,7 @@ class iK4oS(ReadMe):
     def __init__(self):
         self.username = "iK4oS"
         self.contacts = {
-            "Discord": "iK4oS"
+            "Discord": "iK4oS#1755"
         }
         self.alises = {
             "K4oS"
